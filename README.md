@@ -1,4 +1,6 @@
-### Hi there 👋
+Gentoo developer, freedesktop.org contributor, software engineer at Google.
+
+[![Open Hub profile for Matt Turner](https://www.openhub.net/accounts/mattst88/widgets/account_detailed?format=gif)](https://www.openhub.net/accounts/mattst88)
 
 <!--
 **mattst88/mattst88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
