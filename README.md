@@ -1,4 +1,4 @@
-Gentoo developer, freedesktop.org contributor, software engineer at Google.
+Gentoo developer, freedesktop.org contributor, software engineer at Netflix.
 
 [![Open Hub profile for Matt Turner](https://www.openhub.net/accounts/mattst88/widgets/account_detailed?format=gif)](https://www.openhub.net/accounts/mattst88)
 
